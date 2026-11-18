@@ -1,0 +1,5 @@
+{
+  "name": "SkyReels V2 & SkyCaptioner",
+  "description": "Structural video captioning, T2V/I2V caption fusion, prompt enhancement, and autoregressive diffusion-forcing video synthesis studio.",
+  "requestFramePermissions": []
+}
